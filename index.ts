@@ -28,7 +28,5 @@ async function leJson(){
         }
     }
 )}
-
-
 buscaInfoRepo()
 leJson()
